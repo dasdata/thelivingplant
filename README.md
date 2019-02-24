@@ -1,10 +1,7 @@
 The Living Plant using Spresense 
 ===========================================
 
-# Spresense with ESP8266
-
-This project brings support adds new ways to interact with plants and environment. 
-Spresense board uses ESP8266 to communicate over WiFi using TCP for data storage.
+Calathea engages conversations with Siri, monitors environment conditions and is learns about data science.
 
 # Contents
 - AudioSD : audio files for SD card
