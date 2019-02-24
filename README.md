@@ -1,7 +1,7 @@
 The Living Plant using Spresense 
 ===========================================
 
-Calathea engages conversations with Siri, monitors environment conditions and is learns about data science.
+Calathea engages conversations with Siri, monitors environment conditions and learns about data science.
 
 # Contents
 - AudioSD : audio files for SD card
