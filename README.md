@@ -12,12 +12,12 @@ Calathea engages conversations with Siri, monitors environment conditions and is
 
 
 ### Data
-Sensors data storage https://dasdata.co/?das=l8xjg18bpAO8exltb3CjqUuLsZq9OJ/8rTuMIv6KnhKq73PGywtVdtezj/GwzXM+vzom+f+tl2mazFEr3/qoBA==
+- Sensors data storage https://dasdata.co/?das=l8xjg18bpAO8exltb3CjqUuLsZq9OJ/8rTuMIv6KnhKq73PGywtVdtezj/GwzXM+vzom+f+tl2mazFEr3/qoBA==
   
 
 ### Documentation
 
-Documentation for latest development version: https://www.hackster.io/dasdata/the-living-plant-414c43
-Spresense Arduino Library Getting Started Guide https://developer.sony.com/develop/spresense/developer-tools/get-started-using-arduino-ide/set-up-the-arduino-ide
+- Documentation for latest development version: https://www.hackster.io/dasdata/the-living-plant-414c43
+- Spresense Arduino Library Getting Started Guide https://developer.sony.com/develop/spresense/developer-tools/get-started-using-arduino-ide/set-up-the-arduino-ide
 
 
